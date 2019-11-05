@@ -1,6 +1,6 @@
 import { h, render } from 'preact'
 import { Provider } from 'unistore/preact'
-import './index.css';
+import './index.scss';
 
 import Router from './router'
 
